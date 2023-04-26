@@ -12,3 +12,5 @@ let secondCard = false;
 
 //Items array
 const items = [
+    { name: "symbolone", image: "symbolone.png" },
+];
