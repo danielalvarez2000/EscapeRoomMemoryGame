@@ -19,7 +19,7 @@ const items = [
     { name: "symbolfive", image: "symbolfive.png" },
     { name: "symbolsix", image: "symbolsix.png" },
     { name: "symbolseven", image: "symbolseven.png" },
-    { name: "symbolthreee", image: "symbolthreee.png" },
+    { name: "symboleight", image: "symboleight.png" },
     { name: "symbolthreee", image: "symbolthreee.png" },
     { name: "symbolthreee", image: "symbolthreee.png" },
     { name: "symbolthreee", image: "symbolthreee.png" },
