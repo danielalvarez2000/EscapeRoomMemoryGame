@@ -20,10 +20,8 @@ const items = [
     { name: "symbolsix", image: "symbolsix.png" },
     { name: "symbolseven", image: "symbolseven.png" },
     { name: "symbolnine", image: "symbolnine.png" },
-    { name: "symbolten", image: "symbol10.png" },
-    { name: "symboleleven", image: "symboleleven.png" },
     { name: "symboleight", image: "symboleight.png" },
-    { name: "symbol12", image: "symbol12.png" },
+
 
 
 
