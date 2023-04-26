@@ -13,6 +13,9 @@ let secondCard = false;
 //Items array
 const items = [
     { name: "symbolone", image: "symbolone.png" },
+    { name: "symboltwo", image: "symboltwo.png" },
+    { name: "symbolthreee", image: "symbolthreee.png" },
+
 ];
 
 //Initial Time
